@@ -15,7 +15,7 @@ namespace ASPBlog
             var namespaces = new[] { typeof(PostsController).Namespace };
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
-            routes.MapRoute("Login", "login", new { Controller = "Auto", action = "Login" }, namespaces);
+            routes.MapRoute("Login", "login", new { Controller = "Auth", action = "Login" }, namespaces);
 
             routes.MapRoute("Home", "", new { controller = "Posts", action = "Index" }, namespaces);
         }

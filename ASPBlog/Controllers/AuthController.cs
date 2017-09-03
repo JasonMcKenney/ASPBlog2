@@ -6,12 +6,8 @@ using System.Web.Mvc;
 
 namespace ASPBlog.Controllers
 {
-    public class PostsController : Controller
+    public class AuthController : Controller
     {
-        public ActionResult Index() 
-        {
-            return View();       
-
-        } 
+        public ActionResult Login() => View();
     }
 }

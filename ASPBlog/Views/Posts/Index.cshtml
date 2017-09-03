@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Posts";
+}
+
+<h2>Index Page</h2>
+
+@if (true)
+{
+    <text>
+        <p>
+            <a href="@Url.RouteUrl("login")">Click Here!</a>
+        </p>
+        <p>
+            @Html.RouteLink("Click here", "login") to login!
+        </p>
+    </text>
+}
+else
+{
+    <text> Billy Bob </text>
+}
+
