@@ -20,3 +20,12 @@ C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\obj\Debug\ASPBlog.csprojResolveAss
 C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\obj\Debug\ASPBlog.csproj.CoreCompileInputs.cache
 C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\obj\Debug\ASPBlog.dll
 C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\obj\Debug\ASPBlog.pdb
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\Antlr3.Runtime.dll
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\Microsoft.Web.Optimization.dll
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\Newtonsoft.Json.dll
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\System.Web.Optimization.dll
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\WebActivator.dll
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\WebGrease.dll
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\Newtonsoft.Json.xml
+C:\Users\Viviana\source\repos\ASPBlog\ASPBlog\bin\System.Web.Optimization.xml
